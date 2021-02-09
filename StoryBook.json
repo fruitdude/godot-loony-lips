@@ -1,0 +1,10 @@
+[
+  {
+    "prompts" : ["a name", "a movie", "a adjective"],
+    "story" : "Once upon a time %s watched %s and thought it was a %s movie."
+  },
+  {
+    "prompts" : ["a animal", "a country", "a car", "your favorite dish"],
+    "story" : "Once a %s from %s was sitting right next to me in my %s. I made him %s, cause it looked hungry."
+  },
+]
